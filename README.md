@@ -1,7 +1,7 @@
 # Hola, soy Jorge López López 👋
 ### CS Student | Backend Developer | Linux Enthusiast
 
-Soy estudiante de la Licenciatura en Informática (7º semestre) apasionado por el backend, los sistemas distribuidos y la infraestructura de redes. Me encanta construir sistemas robustos, gestionar bases de datos complejas y optimizar mi entorno de trabajo en Linux.
+Soy estudiante de la Licenciatura en Informática (8º semestre) apasionado por el backend, los sistemas distribuidos y la infraestructura de redes. Me encanta construir sistemas robustos, gestionar bases de datos complejas y optimizar mi entorno de trabajo en Linux.
 
 ---
 
